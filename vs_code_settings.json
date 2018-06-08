@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Electron",
+    "git.confirmSync": false,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.autoIndent": true,
+    "editor.rulers": [80]
+}
